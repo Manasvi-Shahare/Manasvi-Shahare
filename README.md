@@ -7,7 +7,7 @@ I recently graduated with a Master's in Computer Science from University of Cali
 <br>
 <p>Previously, I have worked in a Financial Services Company where I built and developed scalable backend systems based on microservices architecture and built RESTful APIs using Java for monitoring distributed systems, enhancing awareness of system health. Through my academics and independent projects, I have learned and explored full stack development, data science, machine learning, and distributed programming.
 
-<br><br>My technical skills include:
+<br><br>My technical skills include:<br>
 ►Languages: Java, Python, React, SQL, JavaScript, C, HTML, PHP<br>
 ►Databases: MySQL,PostgreSQL, ElasticSearch<br>
 ►Technologies: Shell Scripting, Spring Boot, MySQL, React.js, RESTful APIs, Angular, JUnit, Mockito <br>
